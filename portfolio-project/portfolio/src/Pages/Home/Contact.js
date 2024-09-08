@@ -8,7 +8,7 @@ function Contact() {
     // contact._id = {};
     return (
         <div>
-            <SectionTitle title="hello" />
+            <SectionTitle title="Contact" />
             <div className="flex sm:flex-col items-center justify-between">
                 <div className="flex flex-col">
                     <p className="text-tertiary ">{"{"}</p>
