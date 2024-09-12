@@ -1,0 +1,76 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "12754d5f-41ac-4692-8008-6a301b94acca",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1726157766821"
+        }
+      },
+      "favorite": {
+        "name": "My-Portfolio",
+        "color": "color3"
+      },
+      "savedConnectionType": "favorite",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://portfolio:admin@sudhanshu-ranjan.imrttev.mongodb.net/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    },
+    {
+      "id": "12bbb96e-1872-4952-a855-50f6e302b5b4",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1726073120691"
+        }
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://admin:12345@sudhanshu-ranjan.imrttev.mongodb.net/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    },
+    {
+      "id": "8f40e5cc-d25b-47e9-8ee6-a879b74a2448",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1726073130804"
+        }
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://admin:12345@sudhanshu-ranjan.imrttev.mongodb.net/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    },
+    {
+      "id": "9343cb8a-ff0a-4ac2-bf1e-bdb81d71a767",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1726073564737"
+        }
+      },
+      "favorite": {
+        "name": "test",
+        "color": "color1"
+      },
+      "savedConnectionType": "favorite",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://admin:12345@sudhanshu-ranjan.imrttev.mongodb.net/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
